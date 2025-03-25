@@ -1,12 +1,27 @@
-# Kassio Sousa
-Full Stack Developer
-🔭 Currently working with: PHP; REACT; NODE; C#; Unity3D;
+# 👋 Kassio Sousa - Full Stack and Game Developer
 
-[![Site Badge](https://img.shields.io/badge/-kassiosousa-00b075?style=flat-square&logo=react&logoColor=white&labelColor=00b075&link=https://kassiosousa.com.br)](https://kassiosousa.com.br)
-[![Linkedin Badge](https://img.shields.io/badge/-kassiosousa-00b075?style=flat-square&logo=linkedin&logoColor=white&labelColor=00b075&link=https://www.linkedin.com/in/kassiosousa/)](https://www.linkedin.com/in/kassiosousa/) 
+## 🌟 Informações
 
-I work with <strong>PHP (Laravel, Codeigniter and Wordpress), Database Mysql/Document and C# (Unity), NODEJs and REACT</strong> 
-Always looking forward to update my skills on full-stack development.
-I also have experience with AWS and Digital Ocean servers; Web Systems with Django Python and .Net C#; Databases Mysql; CSS frameworks Bootstrap, Foundation and Tailwind;
+Olá! Me chamo **Kassio Sousa** e atualmente, moro em **São Luís, Brasil**. Gosto de ser generalista e por isso, atuo com diversas linguagens de programação. Tenho objetivo de me aprimorar mas aprender o que a tecnologia tem para nos oferecer.
+No meu tempo livre, gosto de participar de criar projetos que solucionem problemas ou necessidades do dia a dia, aprendendo mais sobre técnicas e ferramentas.
+Além de projetos utilizando linguagens Web (back e front) que mais tenho experiência, para me atualizar e aprender mais, também desenvolvo jogos digitais como produtor e programador. ✍️
+
+## 📝 Detalhes
+
+- 👤 **Nome:** Kassio Sousa 
+- 📍 **Localização:** São Luís, MA, Brasil
+- 💻 **Stack:** PHP, Laravel, Codeigniter, Node, NestJs, React, Next.Js, Docker, AWS (S3, SQS, Serverless, Dynamo, Cloudwatch, etc), C#, Unity3D, Gestão de Projetos, Mysql, DocumentDB, Foundation and Tailwind;
+- 📚 **Aprendizado Atual:** PHP 8, Laravel, React
+- 🎓 **Formação:** Bacharel Ciência da Computação; Especialização Desenvolvimento de Jogos;
+- 🏆 **Conquistas:** Top 300 startups Inovativa Brasil 2017; 18 premiações na área de jogos em eventos regionais e nacionais;
+
+## 😎 Curiosidades
+
+- 💡 Comecei a programar em **2014** e, desde então, venho me desafiando e aprendendo coisas novas e variadas. Desde programação web, desenvolvimento de jogos até recentemente o uso de IA no dia a dia.   
+- 🎮 Sou apaixonado por jogos, desde jogar até criar jogos. Desenvolvo jogos digitais desde 2015 e já recebi premiações por projetos em que desenvolvi.
+- 🤗 Acredito que na tecnologia, o trabalho em equipe é crucial. Por isso, estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia e eu posso contribuir de alguma forma.   
+- 🌐 Tenho experiência em diversos projetos e diferentes tipos, desde servidores de jogos, criação de jogos, backend, frontend, bancos de dados, servidores, etc. Acredito que este conhecimento generalista me proporcionou uma visão ampla na mundo da tecnologia para além do código, como também para o que a tecnologia deve ser usada.   
+
+---
 
 "If everyone is moving forward together, then success takes care of itself." – Henry Ford
