@@ -11,7 +11,6 @@ Além de projetos utilizando linguagens Web (back e front) que mais tenho experi
 - 👤 **Nome:** Kassio Sousa 
 - 📍 **Localização:** São Luís, MA, Brasil
 - 💻 **Stack:** PHP, Laravel, Codeigniter, Node, NestJs, React, Next.Js, Docker, AWS (S3, SQS, Serverless, Dynamo, Cloudwatch, etc), C#, Unity3D, Gestão de Projetos, Mysql, DocumentDB, Foundation and Tailwind;
-- 📚 **Aprendizado Atual:** PHP 8, Laravel, React
 - 🎓 **Formação:** Bacharel Ciência da Computação; Especialização Desenvolvimento de Jogos;
 - 🏆 **Conquistas:** Top 300 startups Inovativa Brasil 2017; 18 premiações na área de jogos em eventos regionais e nacionais;
 
